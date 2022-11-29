@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Eray Gokagac</h1>
 
-👨🏻‍💻Python, C, C++, HTML, CSS, SQL, yazılımları. Winsows, Kali Linux, Parrot OS, Ubuntu işletim sistemleri. MySQL veri tabanı yönetim sistemi.
+👨🏻‍💻Python, C, C++, HTML, CSS, SQL, yazılımları. Windows, Kali Linux, Parrot OS, Ubuntu işletim sistemleri. MySQL veri tabanı yönetim sistemi.
 Güvenlik teknolojileri (IPS, IDS, Firewall, VPN..) ağ protokolleri (TCP/IP, DNS, Arp..) ve Switch, Router, Access Point gibi ağ ve güvenlik
 cihazları hakkında bilgi sahibiyim. Cisco onaylı CCNA: Switching, Routing, and Wireless Essentials ve CCNA: Introduction to Networks sertifikalarına sahibim.
 
